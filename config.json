@@ -1,0 +1,11 @@
+{
+    "-----DATABASE/DISCORD SETTINGS-----":"",
+    "dbhost":"127.0.0.1",
+    "dbuser":"root",
+    "dbpass":"",
+    "dbdb":"tamabot",
+    "token":"",
+    "-----BOT SETTINGS-----":"",
+    "daily_hrs":24,
+    "daily_credits":200
+}
